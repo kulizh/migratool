@@ -1,0 +1,18 @@
+{
+    "name": "kulizh/migratool",
+    "description": "Simple PHP class to execute database migrations",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nikita Kulizhnikov",
+            "email": "mail@kulizh.ru"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Migratool\\": "src/"
+        }
+    }
+}

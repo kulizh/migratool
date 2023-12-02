@@ -1,0 +1,6 @@
+/tmp
+/migrations
+/vendor
+
+result.json
+run.php
