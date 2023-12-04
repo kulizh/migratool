@@ -3,7 +3,7 @@
     "description": "Simple PHP class to execute database migrations",
     "type": "library",
     "license": "MIT",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "authors": [
         {
             "name": "Nikita Kulizhnikov",
